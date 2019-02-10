@@ -1,9 +1,9 @@
 # 概要
 * Hinemos6.1 チュートリアルを実施するための環境構築コード
 
-	https://www.hinemos.info/technology/nttdata/2017033001
+	https://www.hinemos.info/technology/nttdata/2018040301
 
-* VMWare でなく VirtualBox を用いて仮想サーバを構築する
+* VirtualBox を用いて仮想サーバを構築する
 * IPアドレスはチュートリアルと異なるので、適宜読み替える
 
 # 環境
@@ -61,7 +61,7 @@
 * Vagrant の実行
 	
 	```
-	$ vagrant init
+	$ vagrant up
 	```
 	⇒ エラーが出なければOK
 
@@ -73,7 +73,7 @@
 ## Hinemos チュートリアルを進める
 * Hinemos チュートリアルページに従い進める
 
-	https://www.hinemos.info/technology/nttdata/2017033001
+	https://www.hinemos.info/technology/nttdata/2018040301
 
 	* 「Hinemosのセットアップ」までは完了しているので、「Hinemosへの管理対象の登録」から始める
 	* IPアドレスは適宜読み替える
